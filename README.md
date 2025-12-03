@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=150&section=header&text=Aditya%20Dhanraj%20Singh&fontSize=40&fontColor=ffffff" />
+  <img src="https://github.com/aditya29625/aditya29625/blob/main/PHOTO-2025-11-28-15-49-50.jpg?raw=true" width="300"/>
 </p>
+
 
 <!-- Profile Photo -->
 <p align="center">
