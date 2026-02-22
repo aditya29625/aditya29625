@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Aditya</span></h1>
 
 <p align="center">
-  <img src="PASTE_DIRECT_IMAGE_LINK_HERE" width="200" style="border-radius:50%;" />
+  <img src="profile.jpg" width="200" style="border-radius:50%;" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 ---
 
-## 🌐 Socials  
+## 🌐 Connect With Me  
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/aditya-dhanraj-singh-948433292">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -32,15 +32,15 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,c,cpp,git,github,mongodb,mysql,linux,tailwind,bootstrap,firebase,docker,aws,vscode" />
 </p>
 
 ---
 
-## 🏆 GitHub Profile Trophies  
+## 🏆 GitHub Achievements  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aditya29625&theme=algolia&no-frame=true&margin-w=10" />
@@ -60,7 +60,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aditya29625&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=aditya29625&theme=tokyonight" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/aditya29625/aditya29625/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/aditya29625/aditya29625/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
