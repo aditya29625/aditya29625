@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Aditya</span></h1>
 
 <p align="center">
-  <img src="https://github.com/aditya29625/aditya29625/blob/main/PHOTO-2025-11-28-15-49-50.jpg?raw=true" width="250" style="border-radius: 14px;" />
+  <img src="https://ibb.co/VWj4VGdS" />
 </p>
 
 <p align="center">
