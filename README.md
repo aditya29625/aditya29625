@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Aditya</span></h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/your-direct-image-link.jpg" width="200" style="border-radius:50%;" />
+  <img src="PASTE_DIRECT_IMAGE_LINK_HERE" width="200" style="border-radius:50%;" />
 </p>
 
 <p align="center">
