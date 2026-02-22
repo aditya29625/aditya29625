@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Aditya</span></h1>
 
 <p align="center">
-  <img src="profile.jpg" width="200" style="border-radius:50%;" />
+  <img src="https://ibb.co/VWj4VGdS" />
 </p>
 
 <p align="center">
@@ -19,29 +19,27 @@
 
 ---
 
-## 🌐 Connect With Me  
-
-<p align="center">
+## 🌐 Socials  
+<p align="left">
   <a href="https://linkedin.com/in/aditya-dhanraj-singh-948433292">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/aditya29625">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://ibb.co/VWj4VGdS"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,c,cpp,git,github,mongodb,mysql,linux,tailwind,bootstrap,firebase,docker,aws,vscode" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements  
-
+## 🏆 GitHub Profile Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aditya29625&theme=algolia&no-frame=true&margin-w=10" />
 </p>
@@ -60,7 +58,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aditya29625&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=aditya29625&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -68,7 +66,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aditya29625/aditya29625/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/aditya29625/aditya29625/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -82,4 +80,4 @@
 
 ---
 
-<p align="center"><b>⭐ Thanks for visiting my profile — drop a follow!</b></p>
+<p align="center"><b>⭐ Thanks for visiting my profile — drop a follow!</b></p> i want to change my  profile picture only with link https://ibb.co/VWj4VGdS give code all
