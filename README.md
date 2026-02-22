@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Aditya</span></h1>
 
 <p align="center">
-  <img src="https://ibb.co/VWj4VGdS" />
+  <img src="https://i.ibb.co/your-direct-image-link.jpg" width="200" style="border-radius:50%;" />
 </p>
 
 <p align="center">
@@ -20,12 +20,13 @@
 ---
 
 ## 🌐 Socials  
+
 <p align="left">
   <a href="https://linkedin.com/in/aditya-dhanraj-singh-948433292">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/aditya29625">
-    <img src="https://ibb.co/VWj4VGdS"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -40,6 +41,7 @@
 ---
 
 ## 🏆 GitHub Profile Trophies  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aditya29625&theme=algolia&no-frame=true&margin-w=10" />
 </p>
